@@ -27,4 +27,4 @@ If the default location is not desired, you can remove the directory for the
 ``python -m calysto_bash install --help`` for available options.
 
 
-.. _online: http://nbviewer.ipython.org/github/Calysto/calysto_bash/blob/master/calysto_bash.ipynb
+.. _online: https://nbviewer.org/github/Calysto/calysto_bash/blob/master/calysto_bash.ipynb
